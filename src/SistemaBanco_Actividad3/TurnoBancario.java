@@ -1,4 +1,4 @@
-package Unidad3_SDK;
+package SistemaBanco_Actividad3;
 
 import java.util.Objects;
 
